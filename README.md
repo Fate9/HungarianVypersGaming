@@ -1,7 +1,7 @@
-.. image:: https://discord.com/api/guilds/606893634192670733/embed.png
-   :target: https://discord.com/invite/vzkJ3SF
+.. image:: https://discord.com/api/guilds/572077459189792769/embed.png
+   :target: https://fightman01bot.hu/support
    :alt: Discord szerver meghívó
 
-**Hungarian Vypers Gaming**
+**FightMan01bot**
 ==========
 Kérek mindenkit, hogy hibákat az "Issues" fülön jelentsen!
