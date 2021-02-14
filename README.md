@@ -2,6 +2,6 @@
    :target: https://fightman01bot.hu/support
    :alt: Discord szerver meghívó
 
-**FightMan01bot**
+**Hungarian Vypers Gaming**
 ==========
 Kérek mindenkit, hogy hibákat az "Issues" fülön jelentsen!
