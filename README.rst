@@ -4,4 +4,4 @@
 
 **Hungarian Vypers Gaming**
 ==========
-Kérek mindenkit, hogy hibákat az "Issues" fülön jelentsen!
+Kérek mindenkit, hogy Discorddal kapcsolatban az "Issues" fülön írjon!
