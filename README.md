@@ -1,4 +1,4 @@
-.. image:: https://discord.com/api/guilds/572077459189792769/embed.png
+.. image:: https://discord.com/api/guilds/606893634192670733/embed.png
    :target: https://discord.com/invite/vzkJ3SF
    :alt: Discord szerver meghívó
 
